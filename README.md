@@ -87,3 +87,5 @@ meu desempenho :arrow_down: :
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joy-c1}/count.svg" /></p> 
 <br></div>
+
+<img width=100% alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=ff52ee&height=180&section=footer&animation=twinkling&fontAlignY=35"/>
