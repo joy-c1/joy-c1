@@ -4,10 +4,13 @@
 
 ## 📖  Sobre mim:
 
-- 💻 Meu nome é Joyce de Freitas, tenho 20 anos e curso Sistemas de Informação.
+-  Meu nome é Joyce de Freitas, tenho 20 anos e curso Sistemas de Informação.
   
-- 🎓 Atualmente estou apenas nos meus primeiros anos de faculdade ainda, mas minha sede insaciável por conhecimento (sim, sou muito curiosa) sempre me leva a procurar outras plataformas e fontes para aprender mais!
-  
+-  Atualmente estou apenas nos meus primeiros anos de faculdade ainda, mas minha sede insaciável por conhecimento (sim, sou muito curiosa) sempre me leva a procurar outras plataformas e fontes para aprender mais!
+
+-  Sou apaixonada pela área de T.I. e tenho o sonho de trabalhar com programação em um futuro próximo!
+
+<br>
   
 <div align="center">
   
@@ -15,11 +18,9 @@
   
 </div>
 
+<br>
 
-- :books: Sou apaixonada pela área de T.I. e tenho o sonho de trabalhar com programação em um futuro próximo!
-  
-- A seguir, você pode conferir como tem sido 
-meu desempenho :arrow_down: :
+  A seguir, você pode conferir como tem sido meu desempenho :arrow_down: :
   
 <br>  
 
@@ -53,7 +54,7 @@ meu desempenho :arrow_down: :
 
 ---
 
-## ⌨ Venha conferir o repositório com o meu projeto mais recente:
+## 💻 Venha conferir o repositório com o meu projeto mais recente:
 
 <div align="center">
 
@@ -63,7 +64,7 @@ meu desempenho :arrow_down: :
 
 </div>
 
-## 📓 Estudando no momento:
+## 🎓 Estudando no momento:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
