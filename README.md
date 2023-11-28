@@ -1,4 +1,4 @@
-<img width=100% alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=ff52ee&height=180&section=header&animation=twinkling&fontAlignY=35"/>
+<img width=100% alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=180&section=header&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&pause=1000&color=ff52ee&center=true&random=false&width=1000&height=100&lines=Ol%C3%A1%2C+seja+bem+vindo!)](https://git.io/typing-svg)
 
@@ -70,16 +70,21 @@ meu desempenho :arrow_down: :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br>
+
 ## 🔨 Principais Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+<br>
 
 ## 👇 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff52ee)](https://www.linkedin.com/in/joyce-de-freitas-pereira-95326a286/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff52ee)](https://www.instagram.com/joy_c1/)
+
+<br>
 
 ### Obrigada pela visita e volte sempre!
 
@@ -88,4 +93,4 @@ meu desempenho :arrow_down: :
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joy-c1}/count.svg" /></p> 
 <br></div>
 
-<img width=100% alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=ff52ee&height=180&section=footer&animation=twinkling&fontAlignY=35"/>
+<img width=100% alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=180&section=footer&animation=twinkling&fontAlignY=35"/>
