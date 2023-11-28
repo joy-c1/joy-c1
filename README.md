@@ -3,7 +3,7 @@
 
 - :woman:  Meu nome é Joyce de Freitas, tenho 20 anos e curso Sistemas de Informação.
   
-- :nerd_face: Atualmente estou apenas nos meus primeiros anos de faculdade ainda, mas minha sede insaciável por conhecimento (sim, sou muito curiosa) sempre me leva a procurar outras plataformas e fontes para aprender mais!
+-  Atualmente estou apenas nos meus primeiros anos de faculdade ainda, mas minha sede insaciável por conhecimento (sim, sou muito curiosa) sempre me leva a procurar outras plataformas e fontes para aprender mais!
   
   
 <div align="center">
@@ -15,8 +15,8 @@
 
 - :books: Sou apaixonada pela área de T.I. e tenho o sonho de trabalhar com programação em um futuro próximo!
   
-- :arrow_down: A seguir, você pode conferir como tem sido 
-meu desempenho 
+- A seguir, você pode conferir como tem sido 
+meu desempenho :arrow_down: :
   
 <br>  
 
@@ -35,7 +35,7 @@ meu desempenho
 
 <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joy-c1&theme=cobalt)](https://git.io/streak-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-c1&show_icons=true&theme=cobalt)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joy-c1&theme=cobalt)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-c1&show_icons=true&theme=cobalt)
 
 </div>
 
