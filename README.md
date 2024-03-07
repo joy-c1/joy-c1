@@ -61,7 +61,7 @@
 <br>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joy-c1&repo=pet-life&theme=cobalt)](https://github.com/joy-c1/pet-life)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joy-c1&repo=pet-life&theme=cobalt)](https://github.com/joy-c1/yugioh-jokenpo-edition)
 
 </div>
 
