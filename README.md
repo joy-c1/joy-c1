@@ -1,7 +1,5 @@
 <img width=100% alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=180&section=header&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&pause=1000&color=ff52ee&center=true&random=false&width=1000&height=100&lines=Ol%C3%A1%2C+seja+bem+vindo!)](https://git.io/typing-svg)
-
 ## 📖  Sobre mim:
 
 -  Meu nome é Joyce de Freitas, tenho 20 anos e curso Sistemas de Informação.
