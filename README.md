@@ -2,10 +2,10 @@
 
 ## 📖  Sobre mim:
 
--  Meu nome é Joyce de Freitas, tenho 20 anos e curso Sistemas de Informação.
+-  Atualmente, curso Sistemas de Informação no IF Goiano.
   
--  Atualmente estou apenas nos meus primeiros anos de faculdade ainda, mas minha sede insaciável por conhecimento (sim, sou muito curiosa) sempre me leva a procurar outras plataformas e fontes para aprender mais!
-
+- Apesar de estar apenas no início da minha jornada acadêmica, sigo sempre a procura de capacitações e oportunidades para aprender mais.
+  
 -  Sou apaixonada pela área de T.I. e tenho o sonho de trabalhar com programação em um futuro próximo!
 
 <br>
